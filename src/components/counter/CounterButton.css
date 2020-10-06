@@ -1,0 +1,22 @@
+button{
+    font-size: 20px;
+    background-color: silver;
+    padding: 15px 30px;
+    color:black;
+    width: 10px;
+}
+
+.count{
+    font-size: 25px;
+    }
+
+.reset{
+    padding: 20px 50px;
+    width:200px;
+    text-align: center;
+    justify-content: center;
+    font-size: medium;
+    color: red;
+    background-color: silver
+    ;
+}
